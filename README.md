@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="name.svg" alt="jamandar"/>
+</h1>
 
 <!--
 **Jamandar/Jamandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
